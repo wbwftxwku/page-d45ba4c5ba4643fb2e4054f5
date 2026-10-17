@@ -1,0 +1,74 @@
+{
+  "version": 2,
+  "template_version": "3a528c553883e59d7cfa",
+  "page_size": 20,
+  "site_id": "e4ce5d5d3e1148c5c955fcd9",
+  "owner": "wbwftxwku",
+  "repo": "page-d45ba4c5ba4643fb2e4054f5",
+  "title": "feixda",
+  "mode": "repo",
+  "articles": [
+    {
+      "id": "d45ba4c5ba4643fb2e4054f5",
+      "a": "feixda",
+      "b": "",
+      "entity": "feixda",
+      "brand": "feixda",
+      "separator": "",
+      "path": "index.html",
+      "hash": "241aa09b9d311c5b88b041241f46f9150bdd7eabd50f07a0344e47ddad8a410b",
+      "content": {
+        "keyword1": "feixda",
+        "keyword2": "",
+        "primary_entity": "feixda",
+        "plans": [],
+        "clients": [],
+        "_offline": false,
+        "content": {
+          "AI_HERO_INTRO": "feixda 致力于为你提供温和、可靠、低延迟的网络连通方案。没有冰冷的术语，只有随时在线的踏实陪伴。",
+          "AI_DESCRIPTION": "feixda 致力于为你提供温和、可靠、低延迟的网络连通方案。没有冰冷的术语，只有随时在线的踏实陪伴。"
+        },
+        "_brand_page": {
+          "version": 3,
+          "body": "<style>\n* {box-sizing: border-box;margin: 0;padding: 0}\nbody {background-color: #f4f4f4;color: #111111;font-family: -apple-system, BlinkMacSystemFont, \"Segoe UI\", Roboto, Helvetica, Arial, sans-serif;line-height: 1.6;display: flex;min-height: 100vh}\naside.sidebar {width: 260px;background-color: #ffffff;border-right: 3px solid #111111;padding: 40px 24px;position: fixed;top: 0;bottom: 0;left: 0;display: flex;flex-direction: column;justify-content: space-between;z-index: 10}\naside.sidebar .logo {font-size: 24px;font-weight: 900;letter-spacing: -1px;color: #111111;text-decoration: none;margin-bottom: 40px;display: block}\naside.sidebar .logo span {color: #ff3b00}\naside.sidebar nav a {display: block;color: #555555;text-decoration: none;font-size: 15px;font-weight: 600;padding: 10px 0;border-bottom: 1px solid #eeeeee;transition: color 0.2s, padding-left 0.2s}\naside.sidebar nav a:hover {color: #ff3b00;padding-left: 6px}\naside.sidebar .sidebar-footer {font-size: 13px;color: #777777}\nmain.content {margin-left: 260px;flex: 1;background-color: #f4f4f4;padding: 60px 80px;max-width: 1200px}\n@media (max-width: 900px) {\n  body {flex-direction: column}\n  aside.sidebar {position: relative;width: 100%;height: auto;border-right: none;border-bottom: 3px solid #111111;padding: 20px}\n  aside.sidebar .logo {margin-bottom: 20px}\n  main.content {margin-left: 0;padding: 30px 20px}\n}\nsection {margin-bottom: 80px}\nh1 {font-size: 48px;font-weight: 900;line-height: 1.1;margin-bottom: 24px;letter-spacing: -2px}\nh1 span {color: #ff3b00}\nh2 {font-size: 32px;font-weight: 800;margin-bottom: 32px;letter-spacing: -1px;border-left: 6px solid #ff3b00;padding-left: 14px}\np {font-size: 16px;color: #444444;margin-bottom: 20px}\n.timeline {position: relative;padding-left: 30px;border-left: 3px solid #111111;margin-top: 30px}\n.timeline-item {position: relative;margin-bottom: 40px}\n.timeline-item::before {content: \"\";position: absolute;left: -36px;top: 6px;width: 12px;height: 12px;background-color: #ff3b00;border: 3px solid #ffffff}\n.timeline-item h3 {font-size: 20px;font-weight: 700;margin-bottom: 8px}\n.grid-2 {display: grid;grid-template-columns: 1fr 1fr;gap: 30px}\n@media (max-width: 768px) {\n  .grid-2 {grid-template-columns: 1fr}\n}\n.card {background-color: #ffffff;border: 3px solid #111111;padding: 32px;position: relative}\n.card.featured {background-color: #ffffff;border-color: #ff3b00}\n.card.featured::after {content: \"老朋友推荐\";position: absolute;top: -16px;right: 20px;background-color: #ff3b00;color: #ffffff;font-size: 12px;font-weight: 700;padding: 4px 12px;letter-spacing: 1px}\n.card h3 {font-size: 22px;font-weight: 800;margin-bottom: 12px}\n.price {font-size: 36px;font-weight: 900;color: #111111;margin-bottom: 8px}\n.price-annual {font-size: 14px;color: #666666;margin-bottom: 24px}\n.features-list {list-style: none;margin-bottom: 24px}\n.features-list li {font-size: 15px;padding: 6px 0;border-bottom: 1px dashed #dddddd}\n.btn {display: inline-block;background-color: #111111;color: #ffffff;text-decoration: none;font-weight: 700;padding: 14px 28px;border: 3px solid #111111;text-align: center;transition: background-color 0.2s, color 0.2s}\n.btn:hover {background-color: #ff3b00;border-color: #ff3b00}\n.btn-outline {background-color: transparent;color: #111111}\n.btn-outline:hover {background-color: #111111;color: #ffffff}\n.chat-faq {display: flex;flex-direction: column;gap: 20px}\n.chat-bubble {background-color: #ffffff;border: 3px solid #111111;padding: 24px;max-width: 800px}\n.chat-bubble.user {background-color: #e5e5e5;align-self: flex-end;border-color: #111111}\n.chat-bubble h4 {font-size: 16px;font-weight: 700;margin-bottom: 8px;color: #ff3b00}\n.chat-bubble.user h4 {color: #111111}\n.chat-bubble p {margin-bottom: 0;font-size: 15px}\nfooter {margin-top: 100px;border-top: 3px solid #111111;padding-top: 30px;font-size: 14px;color: #666666;display: flex;justify-content: space-between}\n@media (max-width: 600px) {\n  footer {flex-direction: column;gap: 10px}\n}\n</style><aside class=\"sidebar\">\n  <div>\n    <a href=\"#\" class=\"logo\">fei<span>x</span>da</a>\n    <nav>\n      <a href=\"#story\">我们的故事</a>\n      <a href=\"#plans\">看看套餐</a>\n      <a href=\"#guide\">使用指南</a>\n      <a href=\"#faq\">常见疑问</a>\n    </nav>\n  </div>\n  <div class=\"sidebar-footer\">\n    <p>© feixda. 随时陪伴的网络伙伴。</p>\n  </div>\n</aside>\n\n<main class=\"content\">\n\n  <section id=\"story\">\n    <h1>嘿，欢迎来到 <span>feixda</span>。<br>这里只有顺畅的网络陪伴。</h1>\n    <p>还记得那些年为了找个稳定连线而焦头烂额的日子吗？我们也是这样过来的。于是，feixda 诞生了——没有天花乱坠的推销，也没有复杂的长篇大论。我们只想用最朴素的方式，把稳定、低延迟的优质网络交到你手里，就像老朋友递过来的一杯温茶。</p>\n    \n    <div class=\"timeline\">\n      <div class=\"timeline-item\">\n        <h3>01. 寻觅初衷</h3>\n        <p>厌倦了动不动就断连的无奈？我们决定自己动手，搭建一条真正能让人安心的专线网络。</p>\n      </div>\n      <div class=\"timeline-item\">\n        <h3>02. 稳步打磨</h3>\n        <p>不追求虚浮的数字，我们把每一个节点都当作自己日常使用的环境去维护，确保每次连接都踏实舒心。</p>\n      </div>\n      <div class=\"timeline-item\">\n        ### 03. 长期相伴\n        <p>如今，feixda 已经成为了许多朋友日常工作和休闲的坚实后盾。随时在线，随时好用。</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"plans\">\n    <h2>选择适合你的舒适方案</h2>\n    <p>不管是日常查资料、看视频，还是偶尔的深度网络需求，总有一款配置刚刚好贴合你的步调。</p>\n    \n    <div class=\"grid-2\">\n      <div class=\"card\">\n        <h3>基础版</h3>\n        <div class=\"price\">¥15<span>/月</span></div>\n        <div class=\"price-annual\">按年付仅需 ¥150/年</div>\n        <ul class=\"features-list\">\n          <li>每月 100GB 极速流量</li>\n          <li>支持 3 台设备同时在线</li>\n          <li>解锁基础流媒体</li>\n          <li>普通线路节点池</li>\n        </ul>\n        <a href=\"#\" class=\"btn btn-outline\">就选这个</a>\n      </div>\n\n      <div class=\"card featured\">\n        <h3>旗舰版</h3>\n        <div class=\"price\">¥35<span>/月</span></div>\n        <div class=\"price-annual\">按年付仅需 ¥350/年</div>\n        <ul class=\"features-list\">\n          <li>每月 300GB 极速流量</li>\n          <li>支持 5 台设备同时在线</li>\n          <li>全节点原生流媒体解锁</li>\n          <li>IPLC 专线游戏加速优化</li>\n          <li>7x24 优先工单支持</li>\n        </ul>\n        <a href=\"#\" class=\"btn\">老朋友推荐款</a>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"guide\">\n    <h2>三步上手，轻松连接</h2>\n    <p>我们讨厌复杂的配置教程。跟着下面的小步骤，一分钟就能让你的设备顺畅跑起来。</p>\n    <div class=\"grid-2\">\n      <div class=\"card\">\n        <h3>步骤一：挑选心仪方案</h3>\n        <p>根据你的日常使用习惯，挑选最合适的套餐，开启你的 feixda 之旅。</p>\n      </div>\n      <div class=\"card\">\n        <h3>步骤二：导入专属订阅</h3>\n        <p>在个人中心复制订阅链接，一键粘贴到你顺手的客户端内，搞定！</p>\n      </div>\n    </div>\n  </section>\n\n  <section id=\"faq\">\n    <h2>老朋友常问的几个小问题</h2>\n    <p>别拘束，就像在咖啡馆聊天一样，你想问的都在这儿啦。</p>\n    \n    <div class=\"chat-faq\">\n      <div class=\"chat-bubble user\">\n        <h4>你问：</h4>\n        <p>新手用起来会不会很麻烦呀？我不太懂技术术语。</p>\n      </div>\n      <div class=\"chat-bubble\">\n        <h4>feixda 答：</h4>\n        <p>完全不用担心！我们准备了图文并茂的傻瓜式上手指南。不管你用的是手机、电脑还是平板，跟着点几下就能连上，要是卡壳了随时找我们。</p>\n      </div>\n\n      <div class=\"chat-bubble user\">\n        <h4>你问：</h4>\n        <p>万一哪天遇到连不上或者网速慢的情况怎么办？</p>\n      </div>\n      <div class=\"chat-bubble\">\n        <h4>feixda 答：</h4>\n        <p>网络世界总会有点小脾气。我们的后台有自动备用线路兜底，旗舰版和团队版的朋友更有优先工单通道，我们会第一时间帮大家排查恢复，绝对不会把你“晾”在一边。</p>\n      </div>\n\n      <div class=\"chat-bubble user\">\n        <h4>你问：</h4>\n        <p>流量不够用了可以随时调整或者升级吗？</p>\n      </div>\n      <div class=\"chat-bubble\">\n        <h4>feixda 答：</h4>\n        <p>当然可以！随时都可以在后台按需补差价升级套餐。我们希望你的每一次网络体验都是自由自在、毫无负担的。</p>\n      </div>\n    </div>\n  </section>\n\n  <footer>\n    <div>feixda — 让连接回归纯粹与简单。</div>\n    <div>真诚服务，一路同行。</div>\n  </footer>\n\n</main>",
+          "hash": "7e1951da8bc56e5528f58809368045efbee960baea419aa354de3068fa971abe",
+          "seo": {
+            "title": "feixda - 像老朋友一样稳妥的网络连接服务",
+            "keywords": "feixda, 网络加速, 专线连接, 稳定流媒体, 科学上网工具",
+            "description": "feixda 致力于为你提供温和、可靠、低延迟的网络连通方案。没有冰冷的术语，只有随时在线的踏实陪伴。"
+          },
+          "provider": "grok",
+          "model": "gemini-3.7-flash",
+          "design": {
+            "no": "2869",
+            "hero": "6 纵向时间线引入",
+            "palette": "10 黑白灰单色配一处强调色",
+            "nav": "2 左侧竖排目录",
+            "card": "2 粗描边直角",
+            "plans_view": "5 两栏对照配推荐标记",
+            "faq_view": "5 对话气泡式问答",
+            "tone": "2 亲切的朋友式口吻",
+            "order": "首屏优先，其余区块由 AI 根据已选构图和信息关系安排"
+          }
+        }
+      }
+    }
+  ],
+  "domain": {
+    "apex": "zjkonka.cn",
+    "host": "p-20d015908a.zjkonka.cn",
+    "kind": "subdomain",
+    "candidate_roots_ref": "subdomain_roots:91e741dce7c147d9ce91af6f84daa678dae755807d903b04925261e0a3a8d804",
+    "prefix_mode": "auto"
+  },
+  "friendlinks": [],
+  "file_hashes": {
+    "index.html": "5548dfec1af03e94d9595fcf15f94df3d87114f99d9ef0ab83a67e1056b03081",
+    "sitemap.xml": "ec2678fd898dfaae7666305a616c9ca1d813d7dd3e87bee2470739c6dceae60c",
+    ".nojekyll": "12ae32cb1ec02d01eda3581b127c1fee3b0dc53572ed6baf239721a03d82e126",
+    "CNAME": "9c127de23e7149beb2da3a52a80bc7d995d4a99e4170566b5a64f1a966fd79b7",
+    "robots.txt": "bb945008f983b1dbce019025f86bab3314584ef248fbb735e136d3e23cec0940",
+    "63666362d6752fa843a418135347cd7c.txt": "08e0b63d773561aa319f330abd568b0ce27ec1d85de6509c700b3527982e9167"
+  },
+  "revision": "14d9c21eccb1e92eb17f88a481bea1760773069a439dd9272e7613d5f27f6815"
+}
